@@ -1,4 +1,6 @@
 
+intended for developers to easily keep and share their knowledge about internal source code structure 
+
 1. Summarise you knowledge about internal code structure of flow in a few minutes
       
 2. Make docs for any project on GitHub, BitBucket or intranet git storage
